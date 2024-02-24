@@ -138,5 +138,4 @@ class Netfinder(object):
         return None
         
 if __name__ == "__main__":
-    netfinder = Netfinder("192.168.3.1")
-    print(netfinder.find_homematic_devices())
+    pass
